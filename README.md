@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hardik</h1>
+<h1 align="center">Hi, I'm Hardik Patel! 👋</h1>
 <h3 align="center">Expert Front-End developer, mentor, problem solver.</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Expert;Angular+%7C+JavaScript+%7C+TypeScript;Curious+about+AI+Agents" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikpatel043&label=Profile%20views&color=0e75b6&style=flat" alt="hardikpatel043" /> </p>
 
